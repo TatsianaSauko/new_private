@@ -53,3 +53,7 @@ header ul li {
 header ul li:hover{
     text-decoration: underline;
 }
+
+html {
+    scroll-behavior: smooth;
+}
